@@ -1,0 +1,22 @@
+{
+  "name": "frontpage-app-dependencies",
+  "version": "1.0.1",
+  "description": "Simple set of dependencies exported for easy use in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-client": "^0.4.11",
+    "graphql": "^0.6.2",
+    "graphql-tag": "0.1.11",
+    "graphql-tools": "^0.6.4",
+    "lodash": "^4.15.0",
+    "react": "^15.2.1",
+    "react-apollo": "^0.4.7",
+    "react-dom": "^15.2.1"
+  }
+}
